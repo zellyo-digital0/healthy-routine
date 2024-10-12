@@ -1,0 +1,5 @@
+dark color : #0D404C
+light blue : #01BCED
+orange     : #FF7200
+Dark blue  : #0051C6
+blue       : #0187DA

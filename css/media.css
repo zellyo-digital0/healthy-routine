@@ -1,0 +1,40 @@
+@media(max-width:991px) {
+    .nav-item {
+        text-align: center;
+    }
+
+    .header-social {
+        text-align: center;
+        margin: 10px auto;
+    }
+
+    .header-btn {
+        margin: 0px 0px 10px 0px;
+        text-align: center;
+
+    }
+}
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .cp-60{
+        padding: 40px 0px;
+    }
+
+    .hero_text {
+        width: auto;
+    }
+
+    .prod_details {
+        padding: 25px !important;
+    }
+}
